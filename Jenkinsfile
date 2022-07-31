@@ -1,4 +1,4 @@
-node('haimaxy-jnlp') {
+node {
     stage('Clone') {
       echo "1.Clone Stage"
     }
